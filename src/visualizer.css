@@ -1,0 +1,15 @@
+.visualizerHeader{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 10px;
+    background-color: rgb(243, 218, 187);
+}
+
+.detailFormDate{
+    margin: 0 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 25px;
+    font-size: 16px;
+    padding: 0 10px;
+}

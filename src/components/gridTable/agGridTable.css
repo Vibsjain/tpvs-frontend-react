@@ -1,0 +1,12 @@
+.agGridContainer{
+    margin: 20px;
+}
+
+.agGridButtons{
+    display: flex;
+    justify-content: end;
+}
+
+.agGridTable{
+    margin: 20px 0;
+}
